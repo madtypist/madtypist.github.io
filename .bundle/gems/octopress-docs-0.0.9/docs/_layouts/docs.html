@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<h4>{{ page.plugin.name }} Doc Pages</h4>
+<nav role='navigation'>
+<ul>
+{% for doc in plugin_docs[page.plugin.slug].docs %}
+<li><a href="{{ doc.url }}">{{ doc.title }}</a></li>
+{% endfor %}
+</ul>
+</nav>
