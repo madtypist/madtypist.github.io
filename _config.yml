@@ -1,9 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Mad Musings
 locale:           en_US
 url:              http://madtypist.github.io
-
 
 # Jekyll configuration
 
@@ -26,13 +25,12 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  name: Jessie L 
+  avatar: my-avatar.jpg
+  bio: "Coder. Pointy-haired boss. Fancy lady."
   email: 
   disqus-shortname: 
-  twitter: #username
-  facebook: #username
+  twitter: mad_typist
   google:
     plus: #username
     analytics: 
@@ -40,7 +38,7 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: madtypist
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
