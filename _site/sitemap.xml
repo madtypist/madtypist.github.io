@@ -3,7 +3,15 @@
   
   
   <url>
-    <loc>http://madtypist.github.io/author-override/</loc>
+    <loc>/hello-world/</loc>
+    
+    <lastmod>2014-10-24T00:00:00-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>/author-override/</loc>
     
     <lastmod>2014-07-31T00:00:00-04:00</lastmod>
     
@@ -11,7 +19,7 @@
   </url>
   
   <url>
-    <loc>http://madtypist.github.io/code-highlighting-post/</loc>
+    <loc>/code-highlighting-post/</loc>
     
     <lastmod>2013-08-16T00:00:00-04:00</lastmod>
     
@@ -19,7 +27,7 @@
   </url>
   
   <url>
-    <loc>http://madtypist.github.io/sample-link-post/</loc>
+    <loc>/sample-link-post/</loc>
     
     <lastmod>2013-08-12T00:00:00-04:00</lastmod>
     
@@ -27,7 +35,7 @@
   </url>
   
   <url>
-    <loc>http://madtypist.github.io/readability-feature-post/</loc>
+    <loc>/readability-feature-post/</loc>
     
     <lastmod>2013-05-23T00:00:00-04:00</lastmod>
     
@@ -35,7 +43,7 @@
   </url>
   
   <url>
-    <loc>http://madtypist.github.io/sample-post-images/</loc>
+    <loc>/sample-post-images/</loc>
     
     <lastmod>2013-05-22T00:00:00-04:00</lastmod>
     
@@ -43,7 +51,7 @@
   </url>
   
   <url>
-    <loc>http://madtypist.github.io/readability-post/</loc>
+    <loc>/readability-post/</loc>
     
     <lastmod>2012-05-22T00:00:00-04:00</lastmod>
     
@@ -51,7 +59,7 @@
   </url>
   
   <url>
-    <loc>http://madtypist.github.io/sample-post/</loc>
+    <loc>/sample-post/</loc>
     
     <lastmod>2011-03-10T00:00:00-05:00</lastmod>
     
@@ -60,43 +68,43 @@
   
   
   <url>
-    <loc>http://madtypist.github.io/about/</loc>
-    <lastmod>2014-10-23T21:57:31-04:00</lastmod>
+    <loc>/about/</loc>
+    <lastmod>2014-10-26T21:13:19-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://madtypist.github.io/</loc>
-    <lastmod>2014-10-23T21:57:31-04:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2014-10-26T21:13:19-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
-    <loc>http://madtypist.github.io/theme-setup/</loc>
-    <lastmod>2014-10-23T21:57:31-04:00</lastmod>
+    <loc>/theme-setup/</loc>
+    <lastmod>2014-10-26T21:13:19-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://madtypist.github.io/about/</loc>
-    <lastmod>2014-10-23T21:57:31-04:00</lastmod>
+    <loc>/about/</loc>
+    <lastmod>2014-10-26T21:13:19-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://madtypist.github.io/posts/</loc>
-    <lastmod>2014-10-23T21:57:31-04:00</lastmod>
+    <loc>/posts/</loc>
+    <lastmod>2014-10-26T21:13:19-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://madtypist.github.io/</loc>
-    <lastmod>2014-10-23T21:57:31-04:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2014-10-26T21:13:19-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
