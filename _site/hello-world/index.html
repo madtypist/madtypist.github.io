@@ -5,14 +5,14 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>Hello World &#8211; Mad Musings</title>
+<title>Hello World, Hello Blog &#8211; Mad Musings</title>
 <meta name="description" content="Welcome to my blog. Welcome to coding.">
 <meta name="keywords" content="">
 
   
 
 <!-- Twitter Cards -->
-<meta name="twitter:title" content="Hello World">
+<meta name="twitter:title" content="Hello World, Hello Blog">
 <meta name="twitter:description" content="Welcome to my blog. Welcome to coding.">
 <meta name="twitter:site" content="@mad_typist">
 <meta name="twitter:creator" content="@mad_typist">
@@ -23,7 +23,7 @@
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Hello World">
+<meta property="og:title" content="Hello World, Hello Blog">
 <meta property="og:description" content="Welcome to my blog. Welcome to coding.">
 <meta property="og:url" content="/hello-world/">
 <meta property="og:site_name" content="Mad Musings">
@@ -137,15 +137,29 @@
   <article class="post">
     <div class="headline-wrap">
       
-        <h1><a href="/hello-world/" rel="bookmark" title="Hello World">Hello World</a></h1>
+        <h1><a href="/hello-world/" rel="bookmark" title="Hello World, Hello Blog">Hello World, Hello Blog</a></h1>
       
     </div><!--/ .headline-wrap -->
     <div class="article-wrap">
       <p>The first thing you usually do when you start working with a new programming language is write a “Hello World” program. The point of this program is simple: demonstrate how to output a string to the console/screen. </p>
 
-<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="nb">p</span> <span class="s2">&quot;What&#39;s your name?&quot;</span>
-<span class="n">s</span> <span class="o">=</span> <span class="nb">gets</span><span class="o">.</span><span class="n">strip</span>
-<span class="nb">p</span> <span class="s2">&quot;Hello </span><span class="si">#{</span><span class="n">s</span><span class="si">}</span><span class="s2">!&quot;</span></code></pre></div>
+<h3 id="java">Java</h3>
+<p>First, let’s take a look at a simple Hello World program written in Java.</p>
+
+<div class="highlight"><pre><code class="language-java" data-lang="java"><span class="kd">class</span> <span class="nc">HelloWorldApp</span> <span class="o">{</span>
+    <span class="kd">public</span> <span class="kd">static</span> <span class="kt">void</span> <span class="nf">main</span><span class="o">(</span><span class="n">String</span><span class="o">[]</span> <span class="n">args</span><span class="o">)</span> <span class="o">{</span>
+        <span class="n">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">(</span><span class="s">&quot;Hello World!&quot;</span><span class="o">);</span>
+    <span class="o">}</span>
+<span class="o">}</span></code></pre></div>
+
+<h3 id="ruby">Ruby</h3>
+<p>Here’s another sample Hello World program. This one is a little more complicated than a normal Hello World program, because it features input <em>and</em> output. </p>
+
+<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="nb">puts</span> <span class="s2">&quot;What&#39;s your name?&quot;</span>
+<span class="nb">name</span> <span class="o">=</span> <span class="nb">gets</span><span class="o">.</span><span class="n">strip</span>
+<span class="nb">puts</span> <span class="s2">&quot;Hello, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">!&quot;</span></code></pre></div>
+
+<p>Let’s break this down line by line to see what’s going on.</p>
 
       <hr />
       <footer role="contentinfo">
@@ -175,7 +189,7 @@
 
 
         </div>
-        <p class="byline"><strong>Hello World</strong> was published on <time datetime="2014-10-24T00:00:00-04:00">October 24, 2014</time>.</p>
+        <p class="byline"><strong>Hello World, Hello Blog</strong> was published on <time datetime="2014-10-24T00:00:00-04:00">October 24, 2014</time>.</p>
       </footer>
     </div><!-- /.article-wrap -->
   
